@@ -1,0 +1,23 @@
+2025-10-25 15:38:44 | IP: 127.0.0.1 | URI: /wp-admin/plugins.php?error=true&charsout=46&plugin=wp-security%2Fwp-security.php&plugin_status=all&paged=1&s&_error_nonce=83ad74c0b6 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:39:45 | IP: 127.0.0.1 | URI: /wp-admin/admin-ajax.php | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:39:49 | IP: 127.0.0.1 | URI: /wp-admin/ | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:51 | IP: 127.0.0.1 | URI: /wp-admin/admin-ajax.php | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:58 | IP: 127.0.0.1 | URI: /wp-admin/ | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:58 | ALERT: IP 127.0.0.1 has 5 hits recently!
+2025-10-25 15:40:58 | IP: 127.0.0.1 | URI: /wp-admin/ | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:58 | ALERT: IP 127.0.0.1 has 6 hits recently!
+2025-10-25 15:40:59 | IP: 127.0.0.1 | URI: /wp-admin/ | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:59 | ALERT: IP 127.0.0.1 has 7 hits recently!
+2025-10-25 15:40:59 | IP: 127.0.0.1 | URI: /wp-admin/ | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:59 | ALERT: IP 127.0.0.1 has 8 hits recently!
+2025-10-25 15:40:59 | IP: 127.0.0.1 | URI: /wp-admin/ | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:40:59 | ALERT: IP 127.0.0.1 has 9 hits recently!
+2025-10-25 15:41:44 | IP: 127.0.0.1 | URI: /wp-admin/admin-ajax.php | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:41:44 | ALERT: IP 127.0.0.1 has 10 hits recently!
+2025-10-25 15:42:44 | IP: 127.0.0.1 | URI: /wp-admin/admin-ajax.php | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:42:44 | ALERT: IP 127.0.0.1 has 11 hits recently!
+2025-10-25 15:44:06 | IP: 127.0.0.1 | URI: /wp-admin/admin-ajax.php | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:44:06 | ALERT: IP 127.0.0.1 has 12 hits recently!
+2025-10-25 15:44:07 | IP: 127.0.0.1 | URI: /wp-admin/plugins.php?action=deactivate&plugin=wp-security%2Fwp-security.php&plugin_status=all&paged=1&s&_wpnonce=9f7b83cb89 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+2025-10-25 15:44:07 | ALERT: IP 127.0.0.1 has 13 hits recently!
+2025-10-25 15:44:07 | Plugin deactivated
